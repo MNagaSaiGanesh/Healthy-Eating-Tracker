@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HealthyEats.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1d4207ab75446070f1481b27f4fa116909ff143")]
 [assembly: System.Reflection.AssemblyProductAttribute("HealthyEats.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HealthyEats.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

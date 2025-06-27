@@ -10,7 +10,7 @@ export class AuthService {
   private currentUserSubject = new BehaviorSubject<User | null>(null);
   public currentUser$ = this.currentUserSubject.asObservable();
 
-  private readonly API_URL = 'http://localhost:5050/api/auth';
+  private readonly API_URL = 'http://localhost:5000/api/auth';
 
   constructor(private http: HttpClient) {
     this.loadSavedSession();
